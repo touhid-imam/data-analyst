@@ -1,4 +1,4 @@
-# Data Analyst Projects Repository
+# Data Analyst Projects
 
 Welcome to my Data Analyst Projects Repository! This repository contains a collection of projects showcasing my skills across various tools and technologies that are essential for a Data Analyst role. The projects are organized into categories, each representing a core skill area in the field of data analysis.
 
