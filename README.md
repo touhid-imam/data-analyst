@@ -7,14 +7,15 @@ Welcome to my Data Analyst Projects Repository! This repository contains a colle
 ### 1. [SQL](./sql)
 Explore my SQL projects, which demonstrate my ability to write efficient queries, manipulate data, and extract meaningful insights from databases.
 
-### 2. [Excel](./excel)
+### 2. [Excel](Excel/)
 Check out my Excel projects where I use formulas, pivot tables, charts, and other advanced Excel functionalities to analyze and visualize data.
 
-### 3. [Tableau](./tableau)
+### 3. [Tableau](Tableu/)
 This section includes projects where I used Tableau to create interactive dashboards and visualizations to convey actionable insights.
 
 **Projects:**
-- [Project 1: Sales Performance Dashboard](./Tableu/Sales-Dashboard)
+- [Project 1: Sales and Profit Analysis Dashboard](Tableu/Sales-Dashboard/)
+- [Project 2: Airbnb Seattle Market Analysis Dashboard](Tableu/Airbnb-Seattle-Market-Analysis-Dashboard/)
 
 ### 4. [Power BI](./powerbi)
 Explore my Power BI projects where I build business intelligence reports and dashboards to support decision-making.
