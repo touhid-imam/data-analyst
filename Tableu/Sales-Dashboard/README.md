@@ -6,6 +6,11 @@ It provides insights into total sales, profit, and quantity trends, helping iden
 
 ---
 
+## 🖼️ Dashboard Preview  
+![Sales and Profit Dashboard](sales-profit-dashboard.png)
+
+---
+
 ## 🚀 Key Features  
 - 📅 **Multi-Year Comparison:** Analyze performance trends by year.  
 - 💰 **KPIs Overview:** Displays total sales, profit, and quantity with year-over-year growth.  
