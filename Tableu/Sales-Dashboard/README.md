@@ -9,6 +9,8 @@ It provides insights into total sales, profit, and quantity trends, helping iden
 ## 🖼️ Dashboard Preview  
 ![Sales and Profit Dashboard](sales-profit-dashboard.png)
 
+🔗 **[View Interactive Dashboard on Tableau Public →](https://public.tableau.com/app/profile/touhid.imam/viz/Sales-Tableu/SalesDashboard)**
+
 ---
 
 ## 🚀 Key Features  

@@ -10,6 +10,8 @@ It helps identify how listing characteristics such as the number of bedrooms and
 ## 📈 Dashboard Preview
 ![Airbnb Seattle Dashboard](seattle-airbnb-dashboard.png)
 
+🔗 **[View Interactive Dashboard on Tableau Public →](https://public.tableau.com/app/profile/touhid.imam/viz/airbnb-dashboard_17542058189720/Dashboard1)**
+
 ---
 
 ## 🔍 Key Insights
