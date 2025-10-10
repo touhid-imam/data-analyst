@@ -10,6 +10,9 @@ Explore my SQL projects, which demonstrate my ability to write efficient queries
 ### 2. [Excel](Excel/)
 Check out my Excel projects where I use formulas, pivot tables, charts, and other advanced Excel functionalities to analyze and visualize data.
 
+**Projects:**
+- [Project 1: Bike Sales Dashboard](Excel/Bike-Sales/)
+
 ### 3. [Tableau](Tableu/)
 This section includes projects where I used Tableau to create interactive dashboards and visualizations to convey actionable insights.
 
